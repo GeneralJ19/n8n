@@ -20,9 +20,6 @@
     "prepack": "echo \"Building project...\" && rm -rf dist && tsc -b",
     "watch": "tsc --watch"
   },
-  "engines": {
-  "node": "20.15"
-  },
   "bin": {
     "n8n-node-dev": "./bin/n8n-node-dev"
   },
